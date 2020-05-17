@@ -1,0 +1,9 @@
+{
+  "parent": "paranormal:custom/holywater",
+  "textures": {
+    "quartz_block_top": "paranormal:blocks/quartz_block_top",
+    "glass": "paranormal:blocks/glass",
+    "obsidian": "paranormal:blocks/obsidian",
+    "water_still": "paranormal:blocks/lapis_block"
+  }
+}

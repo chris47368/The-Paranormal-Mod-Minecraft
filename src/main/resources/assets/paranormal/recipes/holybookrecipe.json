@@ -1,0 +1,17 @@
+{
+  "group": "paranormal",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "paranormal:holycross",
+      "data": 32767
+    },
+    {
+      "item": "minecraft:book"
+    }
+  ],
+  "result": {
+    "item": "paranormal:holybook",
+    "count": 1
+  }
+}
