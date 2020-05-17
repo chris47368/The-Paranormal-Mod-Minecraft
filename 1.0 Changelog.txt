@@ -1,0 +1,29 @@
+Paranormal v1.0
+Features:
+-Holy Cross item added
+-Holy Book item added
+-Holy Water item added
+-Apparition mob added
+Bugs/Need To Add:
+-Holy Water texture not rendering properly
+-Apparition mob cannot phase through blocks
+-Need to add Ghost mob
+-Need to add Poltergeist mob
+-Need to add Demon mob
+-Need to add Cursed curse
+-Need to add Ouija Board item
+-Need to add Spells & Prayers
+=============================================
+Holy Cross:
+  The item needed to start working with any of the Holy items within the Paranormal mod. This item is crafted the same way one would craft a Clock, but using a diamond in the middle instead of redstone.
+  Current uses for the Cross are as follows:
+    Can be crafted with a book to create a Holy Book (At the cost of 1 durability)
+    Can be right clicked to give the player 50 seconds of Regeneration II (At the cost of 1 durability and 1 player level)
+Holy Book:
+  This item doesn't do much for now, but will be changed in the future to add the ability to find and use pages to write spells and prayers on through to be determined means. This item can be crafted by placing a book and a Holy Cross in a crafting grid.
+  Current Uses:
+    Can be crafted with a bottle of water to create Holy Water (At the cost of 1 durability)
+Holy Water:
+  Currently, this item does not do anything. This will be changed in the future to have uses regarding Demons and Poltergeists. This item can be crafted using a Holy Book and a water bottle in a crafting grid.
+  Current Uses:
+    None
