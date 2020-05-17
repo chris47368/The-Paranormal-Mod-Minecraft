@@ -1,5 +1,5 @@
-# The paranormal Mod for Minecraft
-The Minecraft paranormal mod
+# The Paranormal Mod for Minecraft
+The Minecraft Paranormal Mod
 
 A community project to build a Minecraft mod based on this rough list:https://pastebin.com/4mPapQpb
 
