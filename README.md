@@ -1,4 +1,4 @@
-# The-paranormal-Mod-Minecraft-
+# The paranormal Mod for Minecraft
 The Minecraft paranormal mod
 
 A community project to build a Minecraft mod based on this rough list:https://pastebin.com/4mPapQpb
